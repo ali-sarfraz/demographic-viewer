@@ -1,0 +1,8 @@
+line,bar,time,scatter,report
+line,bar,time,scatter,report
+line,bar,time,scatter,report
+line,bar,time,scatter,pie,report
+line,bar,time,scatter,pie,report
+line,bar,time,scatter,report
+line,bar,time,scatter,report
+line,bar,time,scatter,report
